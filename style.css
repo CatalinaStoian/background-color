@@ -30,7 +30,7 @@
     color: aqua;
     font-size: 48px;
 }
-.click-me-button{
+.click-me-button ,.reset-button{
     background-color: rgba(0, 0, 0, 85%);
     color: white;
     font-size: 48px;
